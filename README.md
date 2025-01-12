@@ -1,2 +1,2 @@
 # snake-game
-![snake-game](snake-game.png.png)
+<!--![snake-game](snake-game.png.png)-->
